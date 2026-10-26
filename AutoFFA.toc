@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: AutoFFA
+## Notes: Automatically sets group loot to Free-For-All when forming a new party
+## Author: valnaut
+## Version: 1.0.0
+
+AutoFFA.lua
